@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on both frontend and backend projects to learn more and up my skill set. 
 - 📫 How to reach me:
 - Email: danielulelu@gmail.com
-- Home No: +254795618671
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play piano on my coding breaks. I love listening to piano instrumentals while coding
 
