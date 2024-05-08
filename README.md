@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielulelu
-- 👀 I’m interested in Web & Fullstack Development
-- 🌱 I’m currently learning backend development to fully integrate to full stack developer. 
-- 💞️ I’m looking to collaborate on both frontend and backend projects to learn more and up my skill set. 
+- 👀 I’m interested in Web3 & Fullstack Development.
+- 🌱 I’m currently learning backend development to fully integrate to full stack developer. My repositories are a mixture of of creativity, fixed bugs and well done commits. Let us dive on the future together and accomplish exceptional applications.
+- 💞️ Always working on a project 
 - 📫 How to reach me:
 - Email: danielulelu@gmail.com
 
