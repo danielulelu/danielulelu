@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @danielulelu
-- 👀 I’m interested in Web3 & Fullstack Development.
-- 🌱 I’m currently learning backend development to fully integrate to full stack developer. My repositories are a mixture of of creativity, fixed bugs and well done commits. Let us dive on the future together and accomplish exceptional applications.
+- 👋 Hi, I’m Daniel. Nice to meet you.
+- 👀 I’m in Web3 & Fullstack Development pathway.
+- 🌱 I’m currently learning backend development to fully integrate to full stack web3 developer. My repositories are a mixture of of creativity, fixed bugs and well done commits. Let us dive on the future together and accomplish exceptional applications.
 - Started a Web3 online course with Alchemy University. Will be updating my path in the entire course. So excited to understand blockchain technologies and leverage the skills in the current market.
 - 💞️ Always working on a project 
 - 📫 How to reach me:
